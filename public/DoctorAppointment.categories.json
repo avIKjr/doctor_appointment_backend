@@ -1,0 +1,29 @@
+[
+  {
+    "_id": {
+      "$oid": "651167e8d94a1a8e749f5cae"
+    },
+    "id": 1,
+    "position": "Dentist",
+    "description": "Teething troubles? Schedule Dental checkup",
+    "image": "https://cdn.openviowebsites.com/source/sites/43f21731-8407-4dad-a368-390fa9089665/images/dental-clinic.png"
+  },
+  {
+    "_id": {
+      "$oid": "651167e8d94a1a8e749f5caf"
+    },
+    "id": 2,
+    "position": "Gynecologist|Obstetrician",
+    "description": "Explore the women's health, pregnancy and infertility treatments",
+    "image": "https://www.usnews.com/dims4/USNEWS/9964ace/2147483647/crop/2000x1313+0+0/resize/640x420/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F1e%2F8f%2F98320300423fbbdd39a82d2dd365%2F180326-obgyn-stock.jpg"
+  },
+  {
+    "_id": {
+      "$oid": "651167e8d94a1a8e749f5cb0"
+    },
+    "id": 3,
+    "position": "Dietitian|Nutrition",
+    "description": "Get guidance on eating right, weight management and sport nutrition",
+    "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/02/2/GettyImages-1214221052.jpg.rend.hgtvcom.616.411.suffix/1612301517121.jpeg"
+  }
+]

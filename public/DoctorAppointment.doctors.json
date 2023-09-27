@@ -1,0 +1,146 @@
+[
+  {
+    "_id": {
+      "$oid": "651167f6d94a1a8e749f5cb2"
+    },
+    "id": 1,
+    "position": "Dentist",
+    "doctor": [
+      {
+        "name": "Dr. Ujjal Mehta",
+        "image": "https://img.freepik.com/free-photo/handsome-young-male-doctor-with-stethoscope-standing-against-blue-background_662251-343.jpg",
+        "experience": 10,
+        "address": {
+          "city": "Barrackpore, Kolkata",
+          "clinic": "Nishidin Clinic"
+        },
+        "fees": 200,
+        "ratings": 100,
+        "patient_count": 17,
+        "not_available": 7
+      },
+      {
+        "name": "Dr. Krishna Gopal",
+        "image": "https://media.istockphoto.com/id/1124684854/photo/portrait-of-indian-doctor.jpg?s=612x612&w=0&k=20&c=z07-F84erAbm8Z_sVJhLXdaJBfMFSiJjf_uaHg7Z3sY=",
+        "experience": 12,
+        "address": {
+          "city": "Soadpur, Kolkata",
+          "clinic": "Sarada Clinic"
+        },
+        "fees": 150,
+        "ratings": 90,
+        "patient_count": 57,
+        "not_available": 7
+      },
+      {
+        "name": "Dr. Sunil Mitra",
+        "image": "https://media.istockphoto.com/id/1192129265/photo/male-east-indian-doctor-portrait-stock-photo.jpg?s=612x612&w=0&k=20&c=r7XQlqRLDPnz3_dO88_oN_vrEL5Ys8ihehfEM4EFKq4=",
+        "experience": 10,
+        "address": {
+          "city": "Howrah, Kolkata",
+          "clinic": "Galaxy Clinic"
+        },
+        "fees": 250,
+        "ratings": 96,
+        "patient_count": 20,
+        "not_available": 7
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "651167f6d94a1a8e749f5cb3"
+    },
+    "id": 2,
+    "position": "Gynecologist|Obstetrician",
+    "doctor": [
+      {
+        "name": "Dr. Rishita Mehta",
+        "image": "https://img.freepik.com/free-photo/pleased-young-female-doctor-wearing-medical-robe-stethoscope-around-neck-standing-with-closed-posture_409827-254.jpg",
+        "experience": 18,
+        "address": {
+          "city": "Barrackpore, Kolkata",
+          "clinic": "Nishidin Clinic"
+        },
+        "fees": 300,
+        "ratings": 100,
+        "patient_count": 67,
+        "not_available": 7
+      },
+      {
+        "name": "Dr. Sreya Gopal",
+        "image": "https://t3.ftcdn.net/jpg/05/04/25/70/360_F_504257032_jBtwqNdvdMN9Xm6aDT0hcvtxDXPZErrn.jpg",
+        "experience": 6,
+        "address": {
+          "city": "Soadpur, Kolkata",
+          "clinic": "Sarada Clinic"
+        },
+        "fees": 150,
+        "ratings": 80,
+        "patient_count": 12,
+        "not_available": 7
+      },
+      {
+        "name": "Dr. Aointika Mitra",
+        "image": "https://media.istockphoto.com/id/1189304032/photo/doctor-holding-digital-tablet-at-meeting-room.jpg?s=612x612&w=0&k=20&c=RtQn8w_vhzGYbflSa1B5ea9Ji70O8wHpSgGBSh0anUg=",
+        "experience": 10,
+        "address": {
+          "city": "Howrah, Kolkata",
+          "clinic": "Galaxy Clinic"
+        },
+        "fees": 250,
+        "ratings": 96,
+        "patient_count": 40,
+        "not_available": 7
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "651167f6d94a1a8e749f5cb4"
+    },
+    "id": 3,
+    "position": "Dietitian|Nutrition",
+    "doctor": [
+      {
+        "name": "Dr. Aointika Mehta",
+        "image": "https://images.theconversation.com/files/304957/original/file-20191203-66986-im7o5.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip",
+        "experience": 17,
+        "address": {
+          "city": "Barrackpore, Kolkata",
+          "clinic": "Nishidin Clinic"
+        },
+        "fees": 320,
+        "ratings": 100,
+        "patient_count": 67,
+        "not_available": 7
+      },
+      {
+        "name": "Dr. Sachin Gopal",
+        "image": "https://media.istockphoto.com/id/1327024466/photo/portrait-of-male-doctor-in-white-coat-and-stethoscope-standing-in-clinic-hall.webp?b=1&s=170667a&w=0&k=20&c=3GoWF_QG3WZoJK6CJWWY9Cxt5s6O-0I6qrU1QCnloKA=",
+        "experience": 9,
+        "address": {
+          "city": "Soadpur, Kolkata",
+          "clinic": "Sarada Clinic"
+        },
+        "fees": 150,
+        "ratings": 86,
+        "patient_count": 32,
+        "not_available": 7
+      },
+      {
+        "name": "Dr. Ashok Mitra",
+        "image": "https://img.freepik.com/free-photo/portrait-smiling-handsome-male-doctor-man_171337-5055.jpg",
+        "experience": 13,
+        "address": {
+          "city": "Howrah, Kolkata",
+          "clinic": "Galaxy Clinic"
+        },
+        "fees": 100,
+        "ratings": 93,
+        "patient_count": 48,
+        "not_available": 7
+      }
+    ]
+  }
+]
